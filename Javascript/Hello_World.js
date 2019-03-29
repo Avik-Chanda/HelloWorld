@@ -1,0 +1,1 @@
+alert('First introduction to the javascript ')

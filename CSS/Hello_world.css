@@ -1,0 +1,8 @@
+div.hello
+{
+    font-size : 20px; 
+    border : 1px solid red;
+    margin : auto;
+    text-align : center;
+    color : red;
+}
